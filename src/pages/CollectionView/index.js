@@ -196,13 +196,28 @@ export default function CollectionView({light, vibrant, dark}) {
             </div>
           }
           <div className="bottom-section">
-            <h1>NFT Preview (First 5)</h1>
+            <h1>NFT Preview (First 10)</h1>
             {activeLoader ? 
             <div className="collection-load">
               <img src={Loader} alt="No preview available"></img>
             </div>
             :
             <div className="collection-display">
+                    <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.first_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
+                      <img src={collectionData[0] ?.first_nft_image_256} alt="No preview available" />
+                    </div>
+                    <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.second_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
+                      <img src={collectionData[0] ?.second_nft_image_256} alt="No preview available" />
+                    </div>
+                    <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.third_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
+                      <img src={collectionData[0] ?.third_nft_image_256} alt="No preview available" />
+                    </div>
+                    <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.fourth_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
+                      <img src={collectionData[0] ?.fourth_nft_image_256} alt="No preview available" />
+                    </div>
+                    <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.fifth_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
+                      <img src={collectionData[0] ?.fifth_nft_image_256} alt="No preview available" />
+                    </div>
                     <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.first_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
                       <img src={collectionData[0] ?.first_nft_image_256} alt="No preview available" />
                     </div>
