@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WorldofWomenGallaxy-NFT-Gallery/static/css/main.16acb1f5.chunk.css",
-    "main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.ee039d31.chunk.js",
-    "main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.ee039d31.chunk.js.map",
+    "main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.b0b2937c.chunk.js",
+    "main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.b0b2937c.chunk.js.map",
     "runtime-main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/runtime-main.9a14daca.js",
     "runtime-main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/runtime-main.9a14daca.js.map",
     "static/js/2.b876e2aa.chunk.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.b876e2aa.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.9a14daca.js",
     "static/js/2.b876e2aa.chunk.js",
     "static/css/main.16acb1f5.chunk.css",
-    "static/js/main.ee039d31.chunk.js"
+    "static/js/main.b0b2937c.chunk.js"
   ]
 }
