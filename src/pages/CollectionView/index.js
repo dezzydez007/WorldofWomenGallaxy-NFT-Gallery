@@ -219,19 +219,19 @@ export default function CollectionView({light, vibrant, dark}) {
                       <img src={collectionData[0] ?.fifth_nft_image_256} alt="No preview available" />
                     </div>
                     <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.sixth_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
-                      <img src={collectionData[0] ?.first_nft_image_256} alt="No preview available" />
+                      <img src={collectionData[0] ?.sixth_nft_image_256} alt="No preview available" />
                     </div>
                     <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.seventh_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
-                      <img src={collectionData[0] ?.second_nft_image_256} alt="No preview available" />
+                      <img src={collectionData[0] ?.seventh_nft_image_256} alt="No preview available" />
                     </div>
                     <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.eighth_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
-                      <img src={collectionData[0] ?.third_nft_image_256} alt="No preview available" />
+                      <img src={collectionData[0] ?.eithth_nft_image_256} alt="No preview available" />
                     </div>
                     <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.nineth_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
-                      <img src={collectionData[0] ?.fourth_nft_image_256} alt="No preview available" />
+                      <img src={collectionData[0] ?.nineth_nft_image_256} alt="No preview available" />
                     </div>
                     <div className="nft" onClick={()=>{history.push(`/nft/${collectionData[0]?.collection_address}/${collectionData[0]?.tenth_nft_image_token_id}/${collectionData[0].chain_id}`)}}>
-                      <img src={collectionData[0] ?.fifth_nft_image_256} alt="No preview available" />
+                      <img src={collectionData[0] ?.tenth_nft_image_256} alt="No preview available" />
                     </div>
               
             </div>
