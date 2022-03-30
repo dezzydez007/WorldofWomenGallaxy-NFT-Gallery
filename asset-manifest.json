@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WorldofWomenGallaxy-NFT-Gallery/static/css/main.16acb1f5.chunk.css",
-    "main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.b0b2937c.chunk.js",
-    "main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.b0b2937c.chunk.js.map",
-    "runtime-main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/runtime-main.9a14daca.js",
-    "runtime-main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/runtime-main.9a14daca.js.map",
-    "static/js/2.b876e2aa.chunk.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.b876e2aa.chunk.js",
-    "static/js/2.b876e2aa.chunk.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.b876e2aa.chunk.js.map",
+    "main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.c4c35fde.chunk.js",
+    "main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/main.c4c35fde.chunk.js.map",
+    "runtime-main.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/runtime-main.b4039713.js",
+    "runtime-main.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/runtime-main.b4039713.js.map",
+    "static/js/2.00291395.chunk.js": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.00291395.chunk.js",
+    "static/js/2.00291395.chunk.js.map": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.00291395.chunk.js.map",
     "index.html": "/WorldofWomenGallaxy-NFT-Gallery/index.html",
     "static/css/main.16acb1f5.chunk.css.map": "/WorldofWomenGallaxy-NFT-Gallery/static/css/main.16acb1f5.chunk.css.map",
-    "static/js/2.b876e2aa.chunk.js.LICENSE.txt": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.b876e2aa.chunk.js.LICENSE.txt",
+    "static/js/2.00291395.chunk.js.LICENSE.txt": "/WorldofWomenGallaxy-NFT-Gallery/static/js/2.00291395.chunk.js.LICENSE.txt",
     "static/media/Back.8af6b2fe.svg": "/WorldofWomenGallaxy-NFT-Gallery/static/media/Back.8af6b2fe.svg",
     "static/media/Covalent-Background_5.cc7bc02b.jpg": "/WorldofWomenGallaxy-NFT-Gallery/static/media/Covalent-Background_5.cc7bc02b.jpg",
     "static/media/App.css": "/WorldofWomenGallaxy-NFT-Gallery/static/media/alert.6e5425f9.svg",
@@ -18,9 +18,9 @@
     "static/media/logo.00ecc9d5.svg": "/WorldofWomenGallaxy-NFT-Gallery/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a14daca.js",
-    "static/js/2.b876e2aa.chunk.js",
+    "static/js/runtime-main.b4039713.js",
+    "static/js/2.00291395.chunk.js",
     "static/css/main.16acb1f5.chunk.css",
-    "static/js/main.b0b2937c.chunk.js"
+    "static/js/main.c4c35fde.chunk.js"
   ]
 }
