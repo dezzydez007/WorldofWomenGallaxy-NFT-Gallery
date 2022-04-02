@@ -9,8 +9,11 @@ In the `src/config.js`, simply set your:
 That's it!
 
 ![BYAC Dashboard](./public/byac_dashboard.png)
-![BYAC Dashboard](./public/byac_dashboard.png)
-![BYAC Dashboard](./public/byac_dashboard.png)
+
+![BYAC Dashboard](./public/wow7dats.png)
+
+![BYAC Dashboard](./public/wowAlltime.png)
+
 
 
 ## Live Demo
