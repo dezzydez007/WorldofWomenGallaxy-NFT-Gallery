@@ -25,27 +25,8 @@ That's it!
 
 
 ### GitHub Pages
-On GitHub, the code is available at https://dezzydez007.github.io/WorldofWomenGallaxy-NFT-Gallery/
-
-To get this working with GitHub pages, do the following:
-
-1. Click `Use this template`
-
-![Use GitHub template](./public/use_template.png)
-
-2. Name the repo and ensure you check off `Include all branches`. Click `Create repository from template`
-
-![Create NFT Dashboard Template](./public/create_nft_dashboard_template_settings.png)
-
-3. Under the `Settings` tab, select the `Pages` menu item and copy the URL where your site is published. 
-
-![GitHub Pages Setting](./public/github_pages_setting.png)
-
-4. Make sure you are on the `main` branch and open up `package.json`. Update the URL next to the `"homepage"` field using the URL where your site is being published. Commit your changes.
-
-![package.json Setting](./public/package_json_setting.png)
-
-5. Make sure you are on the `main` branch and update the code in `src/config.js` using the details for your NFT collection:
+On GitHub, the code is available at https://github.com/dezzydez007/WorldofWomenGallaxy-NFT-Gallery.git
+ Make sure you are on the `main` branch and update the code in `src/config.js` using the details for your NFT collection:
 
 ```
 TEMPLATE: {
