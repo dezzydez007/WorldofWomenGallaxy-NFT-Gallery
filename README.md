@@ -9,6 +9,8 @@ In the `src/config.js`, simply set your:
 That's it!
 
 ![BYAC Dashboard](./public/byac_dashboard.png)
+![BYAC Dashboard](./public/byac_dashboard.png)
+![BYAC Dashboard](./public/byac_dashboard.png)
 
 
 ## Live Demo
