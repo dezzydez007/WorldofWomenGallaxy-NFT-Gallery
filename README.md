@@ -15,20 +15,6 @@ That's it!
 ![BYAC Dashboard](./public/wowAlltime.png)
 
 
-
-## Live Demo
-1. [Live on GitHub pages](https://covalenthq.github.io/nft-dashboard-template/)
-
-2. [Live on Replit](https://replit.com/@Covalent-Templates/NFT-Collection-Dashboard-Template?v=1)
-
-The live demo displays:
-* A customizable NFT collection dashboard page with a summary, a floor price graph and a preview of the first 5 NFTs in the collection 
-* Ability to see where your specific collection ranks in the global view of all NFT collections on a specific blockchain
-* Ability to select a specific NFT in your collection and see its metadata
-
-While a default Covalent API Key is used in this code template, it is recommended you register and use your own API key from: https://www.covalenthq.com/platform
-
-&nbsp;
 ## Fork and Customize
 
 ### Local setup
@@ -39,7 +25,7 @@ While a default Covalent API Key is used in this code template, it is recommende
 
 
 ### GitHub Pages
-On GitHub, the code is available at https://github.com/covalenthq/nft-dashboard-template
+On GitHub, the code is available at https://dezzydez007.github.io/WorldofWomenGallaxy-NFT-Gallery/
 
 To get this working with GitHub pages, do the following:
 
@@ -83,20 +69,6 @@ Commit your changes. Your custom NFT dashboard should be live at your published 
 
 ![BYAC Dashboard](./public/byac_dashboard.png)
 
-### Replit
-On Replit, the code and hosted live demo site are integrated in one unified interface. 
-
-To get your customized NFT Dashboard working with Replit, do the following:
-
-1. Go to the [Replit live demo](https://replit.com/@Covalent-Templates/NFT-Collection-Dashboard-Template?v=1) and click `Fork repl`
-
-2. Create a Replit account if you do not already have one. 
-
-3. Update the code in `src/config.js` using the details for your NFT collection (see above for code snippet).
-
-4. Press `Run` and wait for the deployment to complete (it may be a few minutes). Your dashboard will then be live at the provided `...repl.co` URL. 
-
-&nbsp;
 ## Covalent API Endpoints
 The two primary Covalent API endpoints used in this code template include:
 
@@ -176,7 +148,7 @@ The response object looks similar to the following:
 
 &nbsp;
 ## Feedback and Support
-If you have any questions, comments, issues and feedback regarding this code template, please message us on [Discord](https://covalenthq.com/discord).
+If you have any questions, comments, issues and feedback regarding this code template, please message me on [Discord]https://discord.gg/4BGsh5uW).
 
 &nbsp;
 ## About Covalent
@@ -186,4 +158,4 @@ Covalent provides the industry-leading Unified API bringing visibility to billio
 
 Developers use Covalent to build exciting multi-chain applications like crypto wallets, NFT galleries, and investor dashboard tools utilizing data from 26+ blockchains. Covalent is trusted by a community of 15,000+ developers and powers data for 500+ applications including 0x, Zerion, Rainbow Wallet, Rotki, Bitski and many others.
 
-[Website](https://www.covalenthq.com) | [Discord](https://covalenthq.com/discord) | [Telegram](https://t.me/CovalentHQ) | [Twitter](https://twitter.com/covalent_hq) | [YouTube](https://www.youtube.com/channel/UCGn-T9qPiXAx490Wr6WPbOw) | [WeChat](https://mp.weixin.qq.com/s?__biz=MzU0MzY5ODMzMg==&mid=2247483899&idx=1&sn=9c1d4df3acc04bc35c429b244307d3c7&chksm=fb063d08cc71b41e2da96b4747513acf2ab9182babe57c135e4a7d1fef9255eb3b310217835c&token=2144505038&lang=zh_CN#rd)
+[Website](https://www.njangi.xyz/Njangi) | [Discord](https://discord.gg/4BGsh5uW) 
